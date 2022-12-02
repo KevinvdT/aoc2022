@@ -1,0 +1,1 @@
+Boilerplate to start from for each daily puzzle
